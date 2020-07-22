@@ -16,6 +16,7 @@ namespace EFCoreMigration
             CreateHostBuilder(args).Build().Run();
         }
 
+        //Æô¶¯¼ÓÔØ
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>

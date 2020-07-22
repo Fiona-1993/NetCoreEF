@@ -8926,11 +8926,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\职业生涯\\NET技术开发\\.net项目学习文件目录\\EFCoreMigration\\EFCoreMigration.csproj",
+      "projectUniqueName": "F:\\myrepository\\NetCoreEF\\EFCoreMigration\\EFCoreMigration.csproj",
       "projectName": "EFCoreMigration",
-      "projectPath": "G:\\职业生涯\\NET技术开发\\.net项目学习文件目录\\EFCoreMigration\\EFCoreMigration.csproj",
+      "projectPath": "F:\\myrepository\\NetCoreEF\\EFCoreMigration\\EFCoreMigration.csproj",
       "packagesPath": "C:\\Users\\robinhuang\\.nuget\\packages\\",
-      "outputPath": "G:\\职业生涯\\NET技术开发\\.net项目学习文件目录\\EFCoreMigration\\obj\\",
+      "outputPath": "F:\\myrepository\\NetCoreEF\\EFCoreMigration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
