@@ -30,6 +30,7 @@ namespace EFCoreMigration.Controllers
         }
 
         [HttpPost("Loginon")]
+        //登录接口不应该写在这个控制器
         public async Task<IActionResult> Loginon(User uModel)
         {
             if (uModel != null && !string.IsNullOrEmpty(uModel.Name) && !string.IsNullOrEmpty(uModel.Password))

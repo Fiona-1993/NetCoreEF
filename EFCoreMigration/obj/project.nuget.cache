@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cpYN0Qdv8QNvSbuZ7IbAEbeDUxeYgTYJcW56Ktz070ngMZuxLMqL55Ry7qnQLFSp6hRVW1ZabkMtnufJqiKyPQ==",
+  "dgSpecHash": "50iGQjK15tVDyda0zx6zvJFJ3QJRBlxd/E1pJZcBgcu3ymL3fEvZUiYeDAZXoxL6ANCYRo1nq6EB032PZm7NpA==",
   "success": true,
-  "projectFilePath": "G:\\职业生涯\\NET技术开发\\.net项目学习文件目录\\EFCoreMigration\\EFCoreMigration.csproj",
+  "projectFilePath": "F:\\myrepository\\NetCoreEF\\EFCoreMigration\\EFCoreMigration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\robinhuang\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.6\\microsoft.aspnetcore.authentication.jwtbearer.3.1.6.nupkg.sha512",
     "C:\\Users\\robinhuang\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
