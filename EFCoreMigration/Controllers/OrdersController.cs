@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace EFCoreMigration.Controllers
 {
-    [Authorize]
+    [Authorize]//JWT授权特性
     [Route("api/[controller]")]
     [ApiController]
     public class OrdersController : ControllerBase
