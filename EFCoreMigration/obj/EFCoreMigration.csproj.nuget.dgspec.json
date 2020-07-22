@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\职业生涯\\NET技术开发\\.net项目学习文件目录\\EFCoreMigration\\EFCoreMigration.csproj": {}
+    "E:\\project\\NetCoreEF\\EFCoreMigration\\EFCoreMigration.csproj": {}
   },
   "projects": {
-    "G:\\职业生涯\\NET技术开发\\.net项目学习文件目录\\EFCoreMigration\\EFCoreMigration.csproj": {
+    "E:\\project\\NetCoreEF\\EFCoreMigration\\EFCoreMigration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\职业生涯\\NET技术开发\\.net项目学习文件目录\\EFCoreMigration\\EFCoreMigration.csproj",
+        "projectUniqueName": "E:\\project\\NetCoreEF\\EFCoreMigration\\EFCoreMigration.csproj",
         "projectName": "EFCoreMigration",
-        "projectPath": "G:\\职业生涯\\NET技术开发\\.net项目学习文件目录\\EFCoreMigration\\EFCoreMigration.csproj",
-        "packagesPath": "C:\\Users\\robinhuang\\.nuget\\packages\\",
-        "outputPath": "G:\\职业生涯\\NET技术开发\\.net项目学习文件目录\\EFCoreMigration\\obj\\",
+        "projectPath": "E:\\project\\NetCoreEF\\EFCoreMigration\\EFCoreMigration.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\project\\NetCoreEF\\EFCoreMigration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\robinhuang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,6 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.1.246:8080/guestAuth/app/nuget/v1/FeedService.svc/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
